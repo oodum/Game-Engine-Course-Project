@@ -38,6 +38,8 @@ Pick it up from [here](https://assetstore.unity.com/packages/tools/animation/pri
 # Report
 Video report [here](https://youtu.be/B9ZPLz2TpOo)
 
+Slides [here](https://docs.google.com/presentation/d/1GObMf2HeAF7qtmBaZO_mkCSZiySVEt7D6iIA_0nx0EU/edit?usp=sharing)
+
 # Contributions
 Adam Tam -> 100%
 
