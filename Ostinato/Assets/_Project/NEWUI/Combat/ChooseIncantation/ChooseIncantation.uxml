@@ -1,0 +1,20 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <engine:Template name="Incantation" src="project://database/Assets/_Project/NEWUI/Incantation/Incantation.uxml?fileID=9197481963319205126&amp;guid=67917f8a5f6993e49b6a6b818a002fe3&amp;type=3#Incantation" />
+    <Style src="project://database/Assets/_Project/NEWUI/Combat/ChooseIncantation/ChooseIncantation.uss?fileID=7433441132597879392&amp;guid=60d42e52f4ed86343ad51961edbc5cbe&amp;type=3#ChooseIncantation" />
+    <engine:VisualElement name="ChooseIncantation-Background" class="incantationSelector-container" style="flex-grow: 1;">
+        <engine:VisualElement name="ChooseIncantation-Container" class="incantationSelector-incantation-container" style="flex-grow: 1;">
+            <engine:VisualElement name="VisualElement" class="incantationSelector-incantation-listitem incantationSelector-incantation-listitem__selected">
+                <engine:Label text="Mock Incantation" name="Label" class="incantationSelector-incantation-name" style="font-size: 22px;" />
+                <engine:Instance template="Incantation" name="TemplateContainer" class="incantationSelector-incantation-view" />
+            </engine:VisualElement>
+            <engine:VisualElement name="VisualElement" class="incantationSelector-incantation-listitem">
+                <engine:Label text="Mock Incantation 2&#10;" name="Label" class="incantationSelector-incantation-name" style="font-size: 22px;" />
+                <engine:Instance template="Incantation" name="TemplateContainer" class="incantationSelector-incantation-view" />
+            </engine:VisualElement>
+            <engine:VisualElement name="VisualElement" class="incantationSelector-incantation-listitem">
+                <engine:Label text="Mock Incantation 3&#10;" name="Label" class="incantationSelector-incantation-name" style="font-size: 22px;" />
+                <engine:Instance template="Incantation" name="TemplateContainer" class="incantationSelector-incantation-view" />
+            </engine:VisualElement>
+        </engine:VisualElement>
+    </engine:VisualElement>
+</engine:UXML>

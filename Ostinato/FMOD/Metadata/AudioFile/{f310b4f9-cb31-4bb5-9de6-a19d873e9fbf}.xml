@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{f310b4f9-cb31-4bb5-9de6-a19d873e9fbf}">
+		<property name="assetPath">
+			<value>Classical Corrupted Base.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>183.30122448979591</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0ebf0c33-3a45-4448-8a61-defad07ba6e8}</destination>
+		</relationship>
+	</object>
+</objects>

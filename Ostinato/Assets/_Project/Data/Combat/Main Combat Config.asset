@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35cd62b1517647fda1b65259f45cb458, type: 3}
+  m_Name: Main Combat Config
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 11400000, guid: b54719d7f5a99cc4d830d149e4d518f8, type: 2}
+    - {fileID: 11400000, guid: 1100a86d86965fb4e996b6fcaa2565fc, type: 2}
+    - {fileID: 11400000, guid: c3bbc28508a29e54e91f968fa78685ff, type: 2}
+    - {fileID: 11400000, guid: 57b85c5bf29888d4bbd1e0a0b6de4b53, type: 2}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: CombatTurns
+      Entry: 7
+      Data: 0|Combat.TurnCycle, Ostinato
+    - Name: CombatTurns
+      Entry: 7
+      Data: 1|System.Collections.Generic.Queue`1[[Combat.CombatTurn, Ostinato]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 4
+    - Name: 
+      Entry: 10
+      Data: 0
+    - Name: 
+      Entry: 10
+      Data: 1
+    - Name: 
+      Entry: 10
+      Data: 2
+    - Name: 
+      Entry: 10
+      Data: 3
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 

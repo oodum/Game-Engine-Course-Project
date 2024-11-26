@@ -1,0 +1,12 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <engine:Template name="Incantation" src="project://database/Assets/_Project/NEWUI/Incantation/Incantation.uxml?fileID=9197481963319205126&amp;guid=67917f8a5f6993e49b6a6b818a002fe3&amp;type=3#Incantation" />
+    <Style src="project://database/Assets/_Project/NEWUI/fdas.uss?fileID=7433441132597879392&amp;guid=22428cb81ddbaad1eb90937a5bba6470&amp;type=3#fdas" />
+    <engine:VisualElement name="Main" class="container">
+        <engine:VisualElement name="CastBar" class="cast-bar">
+            <engine:VisualElement name="Gap" class="hit-bar stopper" />
+            <engine:VisualElement name="NoteContainer" class="note-container">
+                <engine:Instance template="Incantation" name="NoteScroll" />
+            </engine:VisualElement>
+        </engine:VisualElement>
+    </engine:VisualElement>
+</engine:UXML>

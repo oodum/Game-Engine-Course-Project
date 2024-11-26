@@ -1,0 +1,11 @@
+C:\Users\tem\source\repos\NoteDirectionals\NoteDirectionals\bin\Release\net8.0\NotePositionals.deps.json
+C:\Users\tem\source\repos\NoteDirectionals\NoteDirectionals\bin\Release\net8.0\NotePositionals.dll
+C:\Users\tem\source\repos\NoteDirectionals\NoteDirectionals\bin\Release\net8.0\NotePositionals.pdb
+C:\Users\tem\source\repos\NoteDirectionals\NoteDirectionals\obj\Release\net8.0\NotePositionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tem\source\repos\NoteDirectionals\NoteDirectionals\obj\Release\net8.0\NotePositionals.AssemblyInfoInputs.cache
+C:\Users\tem\source\repos\NoteDirectionals\NoteDirectionals\obj\Release\net8.0\NotePositionals.AssemblyInfo.cs
+C:\Users\tem\source\repos\NoteDirectionals\NoteDirectionals\obj\Release\net8.0\NotePositionals.csproj.CoreCompileInputs.cache
+C:\Users\tem\source\repos\NoteDirectionals\NoteDirectionals\obj\Release\net8.0\NotePositionals.dll
+C:\Users\tem\source\repos\NoteDirectionals\NoteDirectionals\obj\Release\net8.0\refint\NotePositionals.dll
+C:\Users\tem\source\repos\NoteDirectionals\NoteDirectionals\obj\Release\net8.0\NotePositionals.pdb
+C:\Users\tem\source\repos\NoteDirectionals\NoteDirectionals\obj\Release\net8.0\ref\NotePositionals.dll

@@ -1,0 +1,26 @@
+.note-icon {
+    -unity-background-image-tint-color: rgb(0, 0, 0);
+    flex-shrink: 0;
+    -unity-background-scale-mode: scale-to-fit;
+    height: 100%;
+}
+
+.quarter-note {
+    width: 256px;
+}
+
+.eighth-note {
+    width: 128px;
+}
+
+.incantation-container {
+    flex-direction: row;
+}
+
+.sixteenth-note {
+    width: 64px;
+}
+
+.note {
+    flex-shrink: 0;
+}

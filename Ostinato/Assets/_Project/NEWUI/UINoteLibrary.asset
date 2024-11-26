@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a97af55f559647588f29ae9da0e8d97c, type: 3}
+  m_Name: UINoteLibrary
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 21300000, guid: 5cdc20a9de7859b859991d7ffe857603, type: 3}
+    - {fileID: 21300000, guid: 1f53a53b22b2a31b8851e5870bb7f28c, type: 3}
+    - {fileID: 21300000, guid: 1b4c96a6d95a616e28e73b9e27985b2d, type: 3}
+    - {fileID: 21300000, guid: 9d39dd6f2daf4b5a885c387d3583309a, type: 3}
+    - {fileID: 21300000, guid: 3c7d78cb1558a0b949cba60e69020cae, type: 3}
+    - {fileID: 21300000, guid: 9fa28baa7b76bbacdbfd7c24eeed681f, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: quarterNote
+      Entry: 7
+      Data: Ostinato.Core.UI.UINoteConfig, Assembly-CSharp
+    - Name: Sprite
+      Entry: 10
+      Data: 0
+    - Name: Width
+      Entry: 3
+      Data: 256
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: eighthNote
+      Entry: 7
+      Data: Ostinato.Core.UI.UINoteConfig, Assembly-CSharp
+    - Name: Sprite
+      Entry: 10
+      Data: 1
+    - Name: Width
+      Entry: 3
+      Data: 128
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: eighthNoteLeft
+      Entry: 7
+      Data: Ostinato.Core.UI.UINoteConfig, Assembly-CSharp
+    - Name: Sprite
+      Entry: 10
+      Data: 2
+    - Name: Width
+      Entry: 3
+      Data: 128
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: eighthNoteRight
+      Entry: 7
+      Data: Ostinato.Core.UI.UINoteConfig, Assembly-CSharp
+    - Name: Sprite
+      Entry: 10
+      Data: 3
+    - Name: Width
+      Entry: 3
+      Data: 128
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: quarterRest
+      Entry: 7
+      Data: Ostinato.Core.UI.UINoteConfig, Assembly-CSharp
+    - Name: Sprite
+      Entry: 10
+      Data: 4
+    - Name: Width
+      Entry: 3
+      Data: 256
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: eighthRest
+      Entry: 7
+      Data: Ostinato.Core.UI.UINoteConfig, Assembly-CSharp
+    - Name: Sprite
+      Entry: 10
+      Data: 5
+    - Name: Width
+      Entry: 3
+      Data: 128
+    - Name: 
+      Entry: 8
+      Data: 
