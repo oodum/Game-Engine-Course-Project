@@ -40,6 +40,8 @@ Video report [here](https://youtu.be/B9ZPLz2TpOo)
 
 Slides [here](https://docs.google.com/presentation/d/1GObMf2HeAF7qtmBaZO_mkCSZiySVEt7D6iIA_0nx0EU/edit?usp=sharing)
 
+Note: The main scene is in `Assets/_Project/PROTO SCENE/Proto`
+
 # Contributions
 Adam Tam -> 100%
 
